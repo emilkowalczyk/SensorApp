@@ -8,8 +8,4 @@ Program konsolowy w C++ do wprowadzania i analizowania temperatur.
 - Reset danych
 - Dynamiczna pamięć i wskaźnik na obiekt
 
-## Jak uruchomić
-1. Skompiluj:
-   g++ main.cpp -o SensorApp
-2. Uruchom:
-   ./SensorApp
+
