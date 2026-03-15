@@ -1,11 +1,9 @@
 # SensorApp
 
-Program konsolowy w C++ do wprowadzania i analizowania temperatur.
+A C++ console program for entering and analyzing temperatures.
 
-## Funkcje
-- Wprowadzanie temperatur
-- Wyświetlanie min, max, średniej
-- Reset danych
-- Dynamiczna pamięć i wskaźnik na obiekt
-
-
+## Functions
+- Entering temperatures
+- Displaying min, max, and average
+- Resetting data
+- Dynamic memory and object pointer
